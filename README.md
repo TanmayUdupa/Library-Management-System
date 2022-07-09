@@ -1,6 +1,6 @@
 # Library-Management-System
 
-Many lbraries have a library system to add books, search books and to maintain information about the borrowed books. I have tried to create a simple version of this system using C++.
+Many libraries have a library system to add books, search books and to maintain information about the borrowed books. I have tried to create a simple version of this system using C++.
 
 The main user of this system is the admin of the library. The admin can do the following:
 
